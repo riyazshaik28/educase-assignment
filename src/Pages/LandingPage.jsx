@@ -16,7 +16,7 @@ const LandingPage = () => {
           </p>
 
           <button onClick={()=>{setCurrentPage(3); navigate('/signup')}}
-            className="w-full bg-[#6C25FF] hover:bg-violet-700 text-white font-semibold py-3 rounded-md mb-3 cursor-pointer"
+            className="w-full bg-[#6C25FF] hover:bg-violet-800 text-white font-semibold py-3 rounded-md mb-3 cursor-pointer"
             aria-label="Create Account"
           >
             Create Account
