@@ -1,5 +1,5 @@
-import React, {useContext} from 'react'
-import { useNavigate } from 'react-router-dom'
+import { useContext } from 'react';
+import { useNavigate } from 'react-router-dom';
 import { AppContext } from "../context/AppContext";
 
 const LandingPage = () => {
@@ -23,7 +23,7 @@ const LandingPage = () => {
           </button>
 
           <button onClick={()=>{setCurrentPage(2); navigate('/login')}}
-            className="w-full bg-violet-200 hover:bg-violet-300 text-violet-800 font-semibold py-3 rounded-md cursor-pointer"
+            className="w-full bg-violet-200 hover:bg-violet-300 text-violet-700 font-semibold py-3 rounded-md cursor-pointer"
             aria-label="Login"
           >
             Already Registered? Login
