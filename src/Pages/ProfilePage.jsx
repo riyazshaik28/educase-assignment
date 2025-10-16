@@ -73,7 +73,7 @@ const ProfilePage = () => {
         <div className="border-t border-b border-gray-200 py-4">
            <h6>About Me</h6> 
           <p className="text-sm text-gray-700 leading-relaxed">
-             I am an enthusiastic and driven web developer with a keen interest in designing modern, responsive applications. I thrive on solving complex problems, exploring new technologies, and leveraging them to build effective and user-centric solutions. I’m excited to contribute to impactful projects, continue growing my skills, and gain valuable real-world experience.
+             I am an Enthusiastic and driven web developer with a keen interest in designing modern, responsive applications. I thrive on solving complex problems, exploring new technologies, and leveraging them to build effective and user-centric solutions. I’m excited to contribute to impactful projects, continue growing my skills, and gain valuable real-world experience.
           </p>
         </div>
       </div>
